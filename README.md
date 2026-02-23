@@ -9,7 +9,7 @@ Not just the commands — the why behind every decision, and what to do when thi
 
 ---
 
-## 👉 [View the Full Tutorial →](./IT481_Tutorial_OmaNlerum.html)
+## 👉 [View the Full Tutorial →](./index.html)
 
 ---
 
